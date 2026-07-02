@@ -75,6 +75,10 @@ _Decomposition cases, customer scenarios, and practical rounds._
 
 ---
 
+## ➕ Add or improve a guide
+
+Interviewed at one of these companies — or one we don't cover yet? [Open an issue →](https://github.com/landedjobs/ai-interview-guides/issues/new?template=add-guide-intel.yml) with what the loop looked like and any questions you were asked, or open a PR editing the company's file in `guides/`. Fresh first-hand reports are what keep these accurate. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## What's inside every guide
 
 **1. Company AI context** — who's hiring and for what · **2. The loop, stage by stage** · **3. Real reported questions** (cited) · **4. Technical topics for this company** · **5. Design/practical round themes with worked outlines** · **6. Behavioral & culture** · **7. Compensation** · **8. What gets people rejected** · **9. Insider tips**

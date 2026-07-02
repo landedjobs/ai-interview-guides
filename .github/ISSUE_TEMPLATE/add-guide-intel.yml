@@ -1,0 +1,41 @@
+name: ➕ Add interview intel
+description: Share what a company's interview loop is really like
+title: "[intel] "
+labels: ["guide-intel"]
+body:
+  - type: input
+    id: company
+    attributes:
+      label: Company
+      description: Existing guide, or a new company you'd like covered.
+    validations:
+      required: true
+  - type: input
+    id: role
+    attributes:
+      label: Role & level
+      placeholder: e.g. AI Engineer, L5
+  - type: textarea
+    id: process
+    attributes:
+      label: The loop
+      description: Stages you went through, format, how long each took, end-to-end timeline.
+  - type: textarea
+    id: questions
+    attributes:
+      label: Questions you were asked
+      description: As close to verbatim as you can. These are the most valuable part.
+  - type: input
+    id: date
+    attributes:
+      label: When did you interview?
+      placeholder: e.g. Aug 2026
+  - type: dropdown
+    id: firsthand
+    attributes:
+      label: Is this first-hand?
+      options:
+        - "Yes — I interviewed there"
+        - "No — reported elsewhere (I'll add a source)"
+    validations:
+      required: true
