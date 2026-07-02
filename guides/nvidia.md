@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# <img src="https://unavatar.io/nvidia.com" width="30" align="top"> NVIDIA AI Interview Guide (2026)
+# <img src="https://static.b100x.ai/github-repos/images/logos/nvidia.com.png" width="30" align="top"> NVIDIA AI Interview Guide (2026)
 
 ![Updated](https://img.shields.io/badge/updated-2026.07-00A86B?style=flat-square) ![Sources](https://img.shields.io/badge/sources-Glassdoor·Blind·Reddit·candidate_blogs-6C2BD9?style=flat-square)
 
