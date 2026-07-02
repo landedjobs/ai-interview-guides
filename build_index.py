@@ -71,10 +71,10 @@ def hook(slug: str) -> str | None:
 def cell(slug, name, domain):
 	h = hook(slug)
 	if h is None:
-		return f'<td align="center" width="33%"><img src="https://unavatar.io/{domain}" width="40"><br><b>{name}</b><br><sub>🔜 guide in progress</sub></td>'
+		return f'<td align="center" width="33%"><img src="https://static.b100x.ai/github-repos/images/logos/{domain}.png" width="40"><br><b>{name}</b><br><sub>🔜 guide in progress</sub></td>'
 	short = h if len(h) <= 150 else h[:150].rsplit(" ", 1)[0] + " …"
 	return (
-		f'<td align="center" valign="top" width="33%"><a href="guides/{slug}.md"><img src="https://unavatar.io/{domain}" width="40"></a><br>'
+		f'<td align="center" valign="top" width="33%"><a href="guides/{slug}.md"><img src="https://static.b100x.ai/github-repos/images/logos/{domain}.png" width="40"></a><br>'
 		f'<b><a href="guides/{slug}.md">{name}</a></b><br><sub>{short}</sub></td>'
 	)
 
