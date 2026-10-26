@@ -16,6 +16,13 @@ The loop stage by stage, what interviewers look for, practice questions and a pr
 
 </div>
 
+<!-- landed-apply-cta -->
+<table><tr><td>
+<b>⚡ <a href="https://app.landed.jobs/signup?from=github&amp;cta=github-guide-apply&amp;item=ai-interview-guides&amp;utm_source=github&amp;utm_medium=referral&amp;utm_campaign=github-ai-interview-guides&amp;utm_content=guide-apply">Auto-apply to AI jobs that match you →</a></b><br>
+Upload your resume once. <a href="https://www.landed.jobs">landed</a> finds the roles that fit you and applies within hours of them going live, so you actually hear back.
+</td></tr></table>
+
+
 ---
 
 > **How these are built.** Each guide maps a company's interview loop from public candidate reports and the company's own hiring pages, and says how strong the evidence is. Loops change and vary by team, so treat every guide as a starting point. The 33 guides marked 📘 **Deep dive** go further: cited candidate reports, compensation ranges and the most common rejection causes, kept in [`guides/`](guides/).
